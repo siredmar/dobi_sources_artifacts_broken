@@ -1,7 +1,7 @@
 # dobi_sources_artifacts_broken
 This is a minimalist example to show two things:
-a) that the current dobi (0.14.0) breaks the sources/artifact system
-b) that sources won't work with real glob patterns
+- that the current dobi (0.14.0) breaks the sources/artifact system
+- that sources won't work with real glob patterns
 
 To try it out we use two different versions of dobi: 0.13.0 and 0.14.0
 ```
