@@ -16,4 +16,6 @@ dobi.14 install
 
 Have a look at dobi.yaml where the different cases are described.
 
-I tried to narrow the error down to PR #184. I assume that those changes are breaking the sources/artifact system in dobi.
+I tried to narrow the error down to [PR #184](https://github.com/dnephin/dobi/pull/184). I assume that those changes are breaking the sources/artifact system in dobi.
+See discussion here: https://github.com/dnephin/dobi/issues/200
+See the PR here: https://github.com/dnephin/dobi/pull/184
