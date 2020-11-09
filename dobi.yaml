@@ -38,7 +38,7 @@ job=build:
     # source/lib/lib.cpp  source/lib/lib.h  source/main.cpp
     # sources: source/**/*.{cpp,h}
 
-    # This sources line does work with dobi 0.13.0 
+    # This sources line does work with dobi 0.13.0 (but only detects changes in one folder, no real glob patterns like above)
     # but breaks on 0.14.0 with error:
     # [ERROR] failed to execute task "build:": Rel: can't make ./build/hello relative to /<path-to-project>/dobi_bug_184
     # sources: source/*.cpp
